@@ -5,6 +5,7 @@ The application is composed of 2 parts:
 - an interface to display the data of cars
 
 ## Usage
+The applicaton interface is available at http://wiki-crawler.aws-gabriel.de/
 
 If you want to run it locally you need to start the server and the web client separately.
 
